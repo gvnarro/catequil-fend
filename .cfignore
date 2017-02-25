@@ -1,0 +1,17 @@
+.git/
+gulp/
+node_modules/
+src/
+typings/
+.babelrc
+.editorconfig
+.gitignore
+.travis.yml
+docker-compose.yml
+Dockerfile
+gulpfile.babel.js
+jsconfig.json
+serverCluster.sh
+tsconfig.json
+tslint.json
+typings.json

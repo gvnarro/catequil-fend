@@ -1,0 +1,7 @@
+---
+applications:
+- name: capacity-api
+  command: npm run server:prod
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack
+  env:
+    NODE_ENV: production
